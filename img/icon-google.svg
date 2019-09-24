@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="29" viewBox="0 0 28 29">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 30px;
+        fill: #fff;
+        font-family: FontAwesome;
+      }
+    </style>
+  </defs>
+  <text id="icon-google" data-name="icon-google" class="cls-1" x="0.001" y="23.999"></text>
+</svg>
